@@ -1,1 +1,1 @@
-# Deep-Learning-Cloud-and-Edge
+# Deep Learning Cloud and Edge
